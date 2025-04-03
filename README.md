@@ -1,12 +1,23 @@
-## hello😸
+# It's dangerous to code alone! Take this: `import pandas as pd`
 
-<!--
-**LAK3SHORE/LAK3SHORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+### AGI enthusiast | ML specialist | Data Analysis baker | Ultimate Prompting Master
+```console
+$ whoami
+```
 
-- 👨‍💻B.S. Data Science and Mathematics Undergraduate
-- 🤖looking for specialization in Data Analysis, Neural Networks, Deep Learning
-- ☕️functioning via coffe, music and unsanely few hours of sleep.
-- 👔linkedIn: www.linkedin.com/in/cestradasal
+```python
+class DataScientist:
+    def __init__(self):
+        self.education = "B.S. Data Science & Mathematics"
+        self.interests = ["Machine Learning", "Deep Learning", "LLMs",  "Data Science"]
+        self.fuel = ["caffeine", "music", "minimal sleep"]
+        
+    def current_status(self):
+        return f"Training models and overfitting to existence"
+        
+me = DataScientist()
+```
 
+#### 🔗 Connect: [www.linkedin.com/in/cestradasal](www.linkedin.com/in/cestradasal)
+
+<!-- Fun fact: This README has approximately 2^8 bits of my stolen-from-someone personality -->
