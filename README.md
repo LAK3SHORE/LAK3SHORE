@@ -1,4 +1,4 @@
-# It's dangerous to code alone! Take this: `import pandas as pd`
+## It's dangerous to code alone! Take this: `import pandas as pd` <img src="Toon Link GIF.gif" width="70" height="70" alt="Zelda">
 
 ### AGI enthusiast | ML specialist | Data Analysis baker | Ultimate Prompting Master
 ```console
