@@ -1,4 +1,7 @@
-### <img src="Toon Link GIF.gif" width="80" height="60" alt="Zelda"> gdl, mx. -- 21 -- math -- ml -- ai
+<img src="Toon Link GIF.gif" width="80" height="80" alt="Zelda"> 
+
+### gdl, mx. -- 21 -- math -- ml -- ai    
+
 ```console
 $ whoami
 ```
@@ -8,9 +11,7 @@ class DataScientist:
     def __init__(self):
         self.education = "B.S. Data Science & Mathematics"
         self.fuel = ["caffeine", "music", "minimal sleep"]
-        
-    def current_status(self):
-        return f"Training models and overfitting to existence"
+        self.status = "training models and overfitting to existence"
         
 me = DataScientist()
 ```
