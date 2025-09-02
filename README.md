@@ -1,7 +1,7 @@
 # <img src="Toon Link GIF.gif" width="100" height="100" alt="Zelda">
 ## It's dangerous to code alone! Take this: `import pandas as pd` 
 
-### AGI enthusiast | ML specialist | Data Analysis baker |
+### gdl, mx. | 21 | math | ml | ai
 ```console
 $ whoami
 ```
@@ -10,7 +10,6 @@ $ whoami
 class DataScientist:
     def __init__(self):
         self.education = "B.S. Data Science & Mathematics"
-        self.interests = ["Machine Learning", "Deep Learning", "LLMs",  "Data Science"]
         self.fuel = ["caffeine", "music", "minimal sleep"]
         
     def current_status(self):
