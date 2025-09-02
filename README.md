@@ -1,5 +1,3 @@
-## It's dangerous to code alone! Take this: `import pandas as pd` 
-
 ### <img src="Toon Link GIF.gif" width="80" height="60" alt="Zelda"> gdl, mx. -- 21 -- math -- ml -- ai
 ```console
 $ whoami
