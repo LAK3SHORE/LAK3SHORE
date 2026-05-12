@@ -18,4 +18,4 @@ me = DataScientist()
 
 #### 🔗 Connect: [www.linkedin.com/in/cestradasal](www.linkedin.com/in/cestradasal)
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,sklearn,fastapi,selenium,docker,aws,mysql,redis,linux,git,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,sklearn,aws,mysql,redis,linux,docker,fastapi,selenium,git&theme=dark)](https://skillicons.dev)
