@@ -1,6 +1,6 @@
-<img src="Toon Link GIF.gif" width="80" height="80" alt="Zelda"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1DBCF7FF&width=435&lines=gdl%2C+mx.+--21+--math+--ml+--ai)](https://git.io/typing-svg)
 
-### gdl, mx. -- 21 -- math -- ml -- ai    
+<img src="Toon Link GIF.gif" width="80" height="80" alt="Zelda">  
 
 ```console
 $ whoami
@@ -18,4 +18,4 @@ me = DataScientist()
 
 #### 🔗 Connect: [www.linkedin.com/in/cestradasal](www.linkedin.com/in/cestradasal)
 
-<!-- Fun fact: This README has approximately 2^8 bits of my stolen-from-someone personality -->
+[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,sklearn,fastapi,selenium,docker,aws,mysql,redis,linux,git,vscode&theme=dark)](https://skillicons.dev)
