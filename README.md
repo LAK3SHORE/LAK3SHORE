@@ -9,8 +9,15 @@ $ whoami
 ```python
 class DataScientist:
     def __init__(self):
+
         self.education = "B.S. Data Science & Mathematics"
+
+        self.experience = {"Validation Engineering Intern - ML/AI Tools": "Solidigm",
+                           "Data Science Intern": "Functionize AI"
+                           "Research Intern": "CIMAT"}
+
         self.fuel = ["caffeine", "music", "minimal sleep"]
+
         self.status = "training models and overfitting to existence"
         
 me = DataScientist()
